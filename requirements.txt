@@ -1,0 +1,11 @@
+optimum[onnxruntime]==1.2.3
+mkl-include
+mkl
+
+seaborn
+streamlit
+pandas
+matplotlib
+plotly
+pillow
+scikit-learn
